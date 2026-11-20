@@ -1,0 +1,12 @@
+step,seconds,machine
+digitize_ifsb.py,8.3,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+validate_ifsb.py,2.2,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+build_panel.py,29.7,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+psifi_check.py,10.1,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+a1_ceiling.py,80.4,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+a2_barriers.py,91.3,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+a3_usage.py,2659.3,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+a3b_gaps.py,29.7,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+a4_annual.py,325.9,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+a5_simulation.py,125.4,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"
+total,3362.3,"Intel64 Family 6 Model 63 Stepping 2, GenuineIntel | Windows 11 | Python 3.14.7"

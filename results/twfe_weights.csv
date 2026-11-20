@@ -1,0 +1,7 @@
+outcome,n_cells,share_negative,sum_negative,sample
+account,107,0.5514018691588785,-2.3467913185549,EMDE
+save_formal,104,0.5,-2.5735636105775734,EMDE
+borrow_formal,104,0.5,-2.5735636105775734,EMDE
+account,92,0.5,-2.625377509552348,DEV
+save_formal,92,0.5,-2.625377509552348,DEV
+borrow_formal,92,0.5,-2.625377509552348,DEV

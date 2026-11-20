@@ -1,0 +1,6 @@
+data_raw/
+paper_tools/
+__pycache__/
+*.pyc
+data/ifsb_charts/
+ANALYSIS_PLAN.md

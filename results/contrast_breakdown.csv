@@ -1,0 +1,13 @@
+sample,target,placebo,w_lo,w_hi,n_sig,n_sig_in_bracket,sig_lams,min_sig_lam,max_sig_lam
+EMDE,save_formal,save_club,0.6075392398718514,3.9700985238463735,0,0,,,
+EMDE,borrow_formal,borrow_family,0.09962173456417565,2.312543212318637,0,0,,,
+EMDE,borrow_business,borrow_health,0.20901245130078244,2.5744852299429413,0,0,,,
+EMDE,lfp_female,lfp_male,0.8332116138173383,1.6066576057298205,0,0,,,
+DEV,save_formal,save_club,0.6075392398718514,3.9700985238463735,0,0,,,
+DEV,borrow_formal,borrow_family,0.09962173456417565,2.312543212318637,0,0,,,
+DEV,borrow_business,borrow_health,0.20901245130078244,2.5744852299429413,0,0,,,
+DEV,lfp_female,lfp_male,0.8332116138173383,1.6066576057298205,0,0,,,
+EMDE without Saudi Arabia,save_formal,save_club,0.6075392398718514,3.9700985238463735,0,0,,,
+EMDE without Saudi Arabia,borrow_formal,borrow_family,0.09962173456417565,2.312543212318637,0,0,,,
+EMDE without Saudi Arabia,borrow_business,borrow_health,0.20901245130078244,2.5744852299429413,0,0,,,
+EMDE without Saudi Arabia,lfp_female,lfp_male,0.8332116138173383,1.6066576057298205,0,0,,,
