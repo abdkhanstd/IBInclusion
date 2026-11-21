@@ -66,6 +66,10 @@ class FWLFit:
         self.groups = pd.factorize(d[cluster])[0]
         self.G = int(self.groups.max() + 1)
         self.scale = scale
+        # fixed effects nested within the clusters do not count towards k in the CR1 small-sample factor
+        # (Cameron and Miller 2015; as in reghdfe); the WCR bootstrap, CR2 and CR3 do not use this factor
+        if any(isinstance(f, str) and f == cluster for f in fe):
+            self.k -= self.G - 1
         sxx = self.xt @ self.xt
         self.beta = (self.xt @ self.yt) / sxx
         self.resid = self.yt - self.xt * self.beta

@@ -12,8 +12,9 @@ import time
 import pandas as pd
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-STEPS = ["digitize_ifsb.py", "validate_ifsb.py", "build_panel.py", "psifi_check.py", "a1_ceiling.py", "a2_barriers.py",
-         "a3_usage.py", "a3b_gaps.py", "a4_annual.py", "a5_simulation.py"]
+STEPS = ["digitize_ifsb.py", "validate_ifsb.py", "build_panel.py", "psifi_check.py", "build_barrier_panel.py", "a1_ceiling.py",
+         "a2_barriers.py", "a3_usage.py", "a3b_gaps.py", "a2b_barrier_panel.py",   # a2b reads usage_estimates.csv
+         "a4_annual.py", "a5_simulation.py", "a5b_barrier_power.py"]
 
 
 def main():

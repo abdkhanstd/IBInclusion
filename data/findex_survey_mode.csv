@@ -1,0 +1,577 @@
+iso3,wave,survey_year,idno,mode,phone
+AFG,2021,2021,AFG_2021_FINDEX_v02_M,Face-to-face [f2f],0
+ALB,2021,2021,ALB_2021_FINDEX_v02_M,Face-to-face [f2f],0
+DZA,2021,2021,DZA_2021_FINDEX_v02_M,Mobile telephone,1
+ARG,2021,2021,ARG_2021_FINDEX_v02_M,Landline and mobile telephone,1
+AUS,2021,2021,AUS_2021_FINDEX_v02_M,Landline and mobile telephone,1
+AUT,2021,2021,AUT_2021_FINDEX_v02_M,Landline and mobile telephone,1
+BGD,2021,2022,BGD_2021_FINDEX_v02_M,Face-to-face [f2f],0
+BEL,2021,2021,BEL_2021_FINDEX_v02_M,Landline and mobile telephone,1
+BEN,2021,2021,BEN_2021_FINDEX_v02_M,Face-to-face [f2f],0
+BOL,2021,2021,BOL_2021_FINDEX_v02_M,Mobile telephone,1
+BIH,2021,2021,BIH_2021_FINDEX_v02_M,Landline and mobile telephone,1
+BRA,2021,2021,BRA_2021_FINDEX_v02_M,Landline and mobile telephone,1
+BGR,2021,2021,BGR_2021_FINDEX_v02_M,Landline and mobile telephone,1
+CAN,2021,2021,CAN_2021_FINDEX_v02_M,Landline and mobile telephone,1
+CHL,2021,2021,CHL_2021_FINDEX_v02_M,Face-to-face [f2f],0
+CHN,2021,2021,CHN_2021_FINDEX_v02_M,Mobile telephone,1
+COL,2021,2021,COL_2021_FINDEX_v02_M,Landline and mobile telephone,1
+COG,2021,2021,COG_2021_FINDEX_v02_M,Face-to-face [f2f],0
+CRI,2021,2021,CRI_2021_FINDEX_v02_M,Landline and mobile telephone,1
+CIV,2021,2021,CIV_2021_FINDEX_v02_M,Face-to-face [f2f],0
+HRV,2021,2021,HRV_2021_FINDEX_v02_M,Landline and mobile telephone,1
+CYP,2021,2021,CYP_2021_FINDEX_v02_M,Landline and mobile telephone,1
+CZE,2021,2021,CZE_2021_FINDEX_v02_M,Landline and mobile telephone,1
+DNK,2021,2021,DNK_2021_FINDEX_v02_M,Mobile telephone,1
+DOM,2021,2021,DOM_2021_FINDEX_v02_M,Face-to-face [f2f],0
+ECU,2021,2021,ECU_2021_FINDEX_v02_M,Landline and mobile telephone,1
+SLV,2021,2021,SLV_2021_FINDEX_v02_M,Face-to-face [f2f],0
+EST,2021,2021,EST_2021_FINDEX_v02_M,Mobile telephone,1
+FIN,2021,2021,FIN_2021_FINDEX_v02_M,Mobile telephone,1
+FRA,2021,2021,FRA_2021_FINDEX_v02_M,Landline and mobile telephone,1
+GAB,2021,2021,GAB_2021_FINDEX_v02_M,Mobile telephone,1
+DEU,2021,2021,DEU_2021_FINDEX_v02_M,Landline and mobile telephone,1
+GHA,2021,2021,GHA_2021_FINDEX_v02_M,Face-to-face [f2f],0
+GRC,2021,2021,GRC_2021_FINDEX_v02_M,Landline and mobile telephone,1
+GIN,2021,2021,GIN_2021_FINDEX_v02_M,Face-to-face [f2f],0
+HND,2021,2021,HND_2021_FINDEX_v02_M,Face-to-face [f2f],0
+HKG,2021,2021,HKG_2021_FINDEX_v02_M,Landline and mobile telephone,1
+HUN,2021,2021,HUN_2021_FINDEX_v02_M,Landline and mobile telephone,1
+ISL,2021,2021,ISL_2021_FINDEX_v02_M,Landline and mobile telephone,1
+IDN,2021,2021,IDN_2021_FINDEX_v02_M,Face-to-face [f2f],0
+IRN,2021,2021,IRN_2021_FINDEX_v02_M,Landline and mobile telephone,1
+IRQ,2021,2021,IRQ_2021_FINDEX_v02_M,Face-to-face [f2f],0
+IRL,2021,2021,IRL_2021_FINDEX_v02_M,Landline and mobile telephone,1
+ISR,2021,2021,ISR_2021_FINDEX_v02_M,Face-to-face [f2f],0
+ITA,2021,2021,ITA_2021_FINDEX_v02_M,Landline and mobile telephone,1
+JAM,2021,2021,JAM_2021_FINDEX_v02_M,Face-to-face [f2f],0
+JOR,2021,2021,JOR_2021_FINDEX_v02_M,Mobile telephone,1
+KAZ,2021,2021,KAZ_2021_FINDEX_v02_M,Face-to-face [f2f],0
+KEN,2021,2021,KEN_2021_FINDEX_v02_M,Face-to-face [f2f],0
+KOR,2021,2021,KOR_2021_FINDEX_v02_M,Landline and mobile telephone,1
+KSV,2021,2021,KSV_2021_FINDEX_v02_M,Face-to-face [f2f],0
+KGZ,2021,2021,KGZ_2021_FINDEX_v02_M,Face-to-face [f2f],0
+LVA,2021,2021,LVA_2021_FINDEX_v02_M,Mobile telephone,1
+LBN,2021,2021,LBN_2021_FINDEX_v02_M,Landline and mobile telephone,1
+LBR,2021,2021,LBR_2021_FINDEX_v02_M,Face-to-face [f2f],0
+LTU,2021,2021,LTU_2021_FINDEX_v02_M,Landline and mobile telephone,1
+MWI,2021,2021,MWI_2021_FINDEX_v02_M,Face-to-face [f2f],0
+MLT,2021,2021,MLT_2021_FINDEX_v02_M,Landline and mobile telephone,1
+MUS,2021,2021,MUS_2021_FINDEX_v02_M,Landline and mobile telephone,1
+MDA,2021,2021,MDA_2021_FINDEX_v02_M,Face-to-face [f2f],0
+MNG,2021,2021,MNG_2021_FINDEX_v02_M,Face-to-face [f2f],0
+MAR,2021,2021,MAR_2021_FINDEX_v02_M,Mobile telephone,1
+MMR,2021,2021,MMR_2021_FINDEX_v02_M,Mobile telephone,1
+NAM,2021,2021,NAM_2021_FINDEX_v02_M,Face-to-face [f2f],0
+NPL,2021,2021,NPL_2021_FINDEX_v02_M,Face-to-face [f2f],0
+NLD,2021,2021,NLD_2021_FINDEX_v02_M,Landline and mobile telephone,1
+NZL,2021,2021,NZL_2021_FINDEX_v02_M,Landline and mobile telephone,1
+NIC,2021,2021,NIC_2021_FINDEX_v02_M,Face-to-face [f2f],0
+MKD,2021,2021,MKD_2021_FINDEX_v02_M,Landline and mobile telephone,1
+NOR,2021,2021,NOR_2021_FINDEX_v02_M,Mobile telephone,1
+PAN,2021,2021,PAN_2021_FINDEX_v02_M,Face-to-face [f2f],0
+PRY,2021,2021,PRY_2021_FINDEX_v02_M,Face-to-face [f2f],0
+PER,2021,2021,PER_2021_FINDEX_v02_M,Face-to-face [f2f],0
+PHL,2021,2021,PHL_2021_FINDEX_v02_M,Mobile telephone,1
+POL,2021,2021,POL_2021_FINDEX_v02_M,Landline and mobile telephone,1
+PRT,2021,2021,PRT_2021_FINDEX_v02_M,Landline and mobile telephone,1
+ROU,2021,2021,ROU_2021_FINDEX_v02_M,Landline and mobile telephone,1
+RUS,2021,2021,RUS_2021_FINDEX_v02_M,Landline and mobile telephone,1
+SAU,2021,2021,SAU_2021_FINDEX_v02_M,Landline and mobile telephone,1
+SEN,2021,2021,SEN_2021_FINDEX_v02_M,Face-to-face [f2f],0
+SRB,2021,2021,SRB_2021_FINDEX_v02_M,Landline and mobile telephone,1
+SLE,2021,2021,SLE_2021_FINDEX_v02_M,Face-to-face [f2f],0
+SVK,2021,2021,SVK_2021_FINDEX_v02_M,Landline and mobile telephone,1
+SVN,2021,2021,SVN_2021_FINDEX_v02_M,Landline and mobile telephone,1
+ZAF,2021,2021,ZAF_2021_FINDEX_v02_M,Face-to-face [f2f],0
+ESP,2021,2021,ESP_2021_FINDEX_v02_M,Landline and mobile telephone,1
+LKA,2021,2021,LKA_2021_FINDEX_v02_M,Mobile telephone,1
+SWE,2021,2021,SWE_2021_FINDEX_v02_M,Landline and mobile telephone,1
+CHE,2021,2021,CHE_2021_FINDEX_v02_M,Landline and mobile telephone,1
+TWN,2021,2021,TWN_2021_FINDEX_v02_M,Landline and mobile telephone,1
+TJK,2021,2021,TJK_2021_FINDEX_v02_M,Face-to-face [f2f],0
+TZA,2021,2021,TZA_2021_FINDEX_v02_M,Face-to-face [f2f],0
+THA,2021,2021,THA_2021_FINDEX_v02_M,Mobile telephone,1
+TGO,2021,2021,TGO_2021_FINDEX_v02_M,Face-to-face [f2f],0
+TUN,2021,2021,TUN_2021_FINDEX_v02_M,Face-to-face [f2f],0
+TUR,2021,2021,TUR_2021_FINDEX_v02_M,Landline and mobile telephone,1
+UKR,2021,2021,UKR_2021_FINDEX_v02_M,Landline and mobile telephone,1
+ARE,2021,2021,ARE_2021_FINDEX_v02_M,Mobile telephone,1
+GBR,2021,2021,GBR_2021_FINDEX_v02_M,Landline and mobile telephone,1
+USA,2021,2021,USA_2021_FINDEX_v02_M,Landline and mobile telephone,1
+URY,2021,2021,URY_2021_FINDEX_v02_M,Face-to-face [f2f],0
+UZB,2021,2021,UZB_2021_FINDEX_v02_M,Face-to-face [f2f],0
+VEN,2021,2021,VEN_2021_FINDEX_v02_M,Landline and mobile telephone,1
+ZMB,2021,2021,ZMB_2021_FINDEX_v02_M,Face-to-face [f2f],0
+ZWE,2021,2021,ZWE_2021_FINDEX_v02_M,Face-to-face [f2f],0
+VNM,2011,2011,VNM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+TUR,2011,2011,TUR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+TUN,2011,2011,TUN_2011_FINDEX_v01_M,Face-to-face [f2f],0
+SOM,2011,2011,SOM_2011_FINDEX_v01_M,Face-to-face [f2f],0
+MOZ,2011,2011,MOZ_2011_FINDEX_v01_M,Face-to-face [f2f],0
+TUR,2014,2014,TUR_2014_FINDEX_v01_M,Other [oth],0
+VNM,2014,2014,VNM_2014_FINDEX_v01_M,Face-to-face [f2f],0
+TUR,2017,2017,TUR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+VNM,2017,2017,VNM_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+AZE,2021,2022,AZE_2022_FINDEX_v01_M,Face-to-face [f2f],0
+BWA,2021,2022,BWA_2022_FINDEX_v01_M,Face-to-face [f2f],0
+COM,2021,2022,COM_2022_FINDEX_v01_M,Face-to-face [f2f],0
+COD,2021,2022,COD_2022_FINDEX_v01_M,Face-to-face [f2f],0
+SWZ,2021,2022,SWZ_2022_FINDEX_v01_M,Face-to-face [f2f],0
+ETH,2021,2022,ETH_2022_FINDEX_v01_M,Face-to-face [f2f],0
+GMB,2021,2022,GMB_2022_FINDEX_v01_M,Face-to-face [f2f],0
+GTM,2021,2022,GTM_2022_FINDEX_v01_M,Face-to-face [f2f],0
+LSO,2021,2022,LSO_2022_FINDEX_v01_M,Face-to-face [f2f],0
+MRT,2021,2022,MRT_2022_FINDEX_v01_M,Face-to-face [f2f],0
+MEX,2021,2022,MEX_2022_FINDEX_v01_M,Face-to-face [f2f],0
+NER,2021,2022,NER_2022_FINDEX_v01_M,Face-to-face [f2f],0
+VNM,2021,2022,VNM_2022_FINDEX_v01_M,Face-to-face [f2f],0
+ARM,2021,2021,ARM_2021_FINDEX_v02_M,Face-to-face [f2f],0
+BFA,2021,2021,BFA_2021_FINDEX_v02_M,Face-to-face [f2f],0
+KHM,2021,2021,KHM_2021_FINDEX_v02_M,Face-to-face [f2f],0
+CMR,2021,2021,CMR_2021_FINDEX_v02_M,Face-to-face [f2f],0
+EGY,2021,2021,EGY_2021_FINDEX_v02_M,Face-to-face [f2f],0
+GEO,2021,2021,GEO_2021_FINDEX_v02_M,Face-to-face [f2f],0
+IND,2021,2021,IND_2021_FINDEX_v02_M,Face-to-face [f2f],0
+JPN,2021,2021,JPN_2021_FINDEX_v02_M,Landline and mobile telephone,1
+LAO,2021,2021,LAO_2021_FINDEX_v02_M,Face-to-face [f2f],0
+MYS,2021,2021,MYS_2021_FINDEX_v02_M,Face-to-face [f2f],0
+MLI,2021,2021,MLI_2021_FINDEX_v02_M,Face-to-face [f2f],0
+MOZ,2021,2021,MOZ_2021_FINDEX_v02_M,Face-to-face [f2f],0
+NGA,2021,2021,NGA_2021_FINDEX_v02_M,Face-to-face [f2f],0
+PAK,2021,2021,PAK_2021_FINDEX_v02_M,Face-to-face [f2f],0
+SGP,2021,2021,SGP_2021_FINDEX_v02_M,Face-to-face [f2f],0
+SSD,2021,2021,SSD_2021_FINDEX_v02_M,Face-to-face [f2f],0
+UGA,2021,2021,UGA_2021_FINDEX_v02_M,Face-to-face [f2f],0
+WBG,2021,2021,WBG_2021_FINDEX_v02_M,Face-to-face [f2f],0
+MDG,2021,2022,MDG_2022_FINDEX_v01_M,Face-to-face [f2f],0
+ZWE,2011,2011,ZWE_2011_FINDEX_v02_M,Face-to-face [f2f],0
+COD,2011,2011,COD_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ZAF,2011,2011,ZAF_2011_FINDEX_v02_M,Face-to-face [f2f],0
+YEM,2011,2011,YEM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+WLD,2011,2011,WLD_2011_FINDEX_v02_M,Face-to-face [f2f] OR Landline telephone OR Landline and cellular telephone,0
+WBG,2011,2011,WBG_2011_FINDEX_v02_M,Face-to-face [f2f],0
+VEN,2011,2011,VEN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+UZB,2011,2011,UZB_2011_FINDEX_v02_M,Face-to-face [f2f],0
+USA,2011,2011,USA_2011_FINDEX_v02_M,Landline and cellular telephone,1
+URY,2011,2011,URY_2011_FINDEX_v02_M,Face-to-face [f2f],0
+UKR,2011,2011,UKR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+UGA,2011,2011,UGA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+TZA,2011,2011,TZA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+TWN,2011,2011,TWN_2011_FINDEX_v02_M,Landline and cellular telephone,1
+TTO,2011,2011,TTO_2011_FINDEX_v02_M,Face-to-face [f2f,0
+TKM,2011,2011,TKM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+TJK,2011,2011,TJK_2011_FINDEX_v02_M,Face-to-face [f2f],0
+THA,2011,2011,THA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+TGO,2011,2011,TGO_2011_FINDEX_v02_M,Face-to-face [f2f],0
+TCD,2011,2011,TCD_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ZMB,2011,2011,ZMB_2011_FINDEX_v02_M,Face-to-face [f2f] OR Landline telephone or Landline and cellular telephone,0
+AFG,2011,2011,AFG_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SLV,2011,2011,SLV_2011_FINDEX_v02_M,Face-to-face [f2f],0
+AGO,2011,2011,AGO_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ALB,2011,2011,ALB_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ARE,2011,2011,ARE_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ARG,2011,2011,ARG_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ARM,2011,2011,ARM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+AUS,2011,2011,AUS_2011_FINDEX_v02_M,Landline and cellular telephone,1
+AUT,2011,2011,AUT_2011_FINDEX_v02_M,Landline and cellular telephone,1
+AZE,2011,2011,AZE_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BDI,2011,2011,BDI_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BEL,2011,2011,BEL_2011_FINDEX_v02_M,Landline and cellular telephone,1
+BEN,2011,2011,BEN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BFA,2011,2011,BFA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BGD,2011,2011,BGD_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BGR,2011,2011,BGR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BHR,2011,2011,BHR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BIH,2011,2011,BIH_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BLR,2011,2011,BLR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BOL,2011,2011,BOL_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BRA,2011,2011,BRA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+BWA,2011,2011,BWA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+CAF,2011,2011,CAF_2011_FINDEX_v02_M,Face-to-face [f2f],0
+CAN,2011,2011,CAN_2011_FINDEX_v02_M,Landline telephone,1
+CHL,2011,2011,CHL_2011_FINDEX_v02_M,Face-to-face [f2f],0
+CHN,2011,2011,CHN_2011_FINDEX_v02_M,Face-to-face [f2f] and Landline telephone,0
+CMR,2011,2011,CMR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+COG,2011,2011,COG_2011_FINDEX_v02_M,Face-to-face [f2f],0
+COL,2011,2011,COL_2011_FINDEX_v02_M,Face-to-face [f2f],0
+COM,2011,2011,COM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+CRI,2011,2011,CRI_2011_FINDEX_v02_M,Face-to-face [f2f],0
+CYP,2011,2011,CYP_2011_FINDEX_v02_M,Landline telephone,1
+CZE,2011,2011,CZE_2011_FINDEX_v02_M,Face-to-face [f2f],0
+DEU,2011,2011,DEU_2011_FINDEX_v02_M,Landline and cellular telephone,1
+SYR,2011,2011,SYR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SWZ,2011,2011,SWZ_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SWE,2011,2011,SWE_2011_FINDEX_v02_M,Landline telephone,1
+SVN,2011,2011,SVN_2011_FINDEX_v02_M,Landline telephone,1
+SVK,2011,2011,SVK_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SRB,2011,2011,SRB_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SLE,2011,2011,SLE_2011_FINDEX_v02_M,Face-to-face [f2f],0
+DJI,2011,2011,DJI_2011_FINDEX_v02_M,Face-to-face [f2f],0
+DNK,2011,2011,DNK_2011_FINDEX_v02_M,Landline and cellular telephone,1
+DOM,2011,2011,DOM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+DZA,2011,2011,DZA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ECU,2011,2011,ECU_2011_FINDEX_v02_M,Face-to-face [f2f],0
+EGY,2011,2011,EGY_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ESP,2011,2011,ESP_2011_FINDEX_v02_M,Landline and cellular telephone,1
+EST,2011,2011,EST_2011_FINDEX_v02_M,Face-to-face [f2f],0
+FIN,2011,2011,FIN_2011_FINDEX_v02_M,Landline and cellular telephone,1
+FRA,2011,2011,FRA_2011_FINDEX_v02_M,Landline telephone,1
+GAB,2011,2011,GAB_2011_FINDEX_v02_M,Face-to-face [f2f],0
+GBR,2011,2011,GBR_2011_FINDEX_v02_M,Landline and cellular telephone,1
+GEO,2011,2011,GEO_2011_FINDEX_v02_M,Face-to-face [f2f],0
+GHA,2011,2011,GHA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+GIN,2011,2011,GIN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+GRC,2011,2011,GRC_2011_FINDEX_v02_M,Face-to-face [f2f],0
+GTM,2011,2011,GTM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+HKG,2011,2011,HKG_2011_FINDEX_v02_M,Landline and cellular telephone,1
+HND,2011,2011,HND_2011_FINDEX_v02_M,Face-to-face [f2f],0
+HRV,2011,2011,HRV_2011_FINDEX_v02_M,Face-to-face [f2f],0
+HTI,2011,2011,HTI_2011_FINDEX_v02_M,Face-to-face [f2f],0
+HUN,2011,2011,HUN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+IDN,2011,2011,IDN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+IND,2011,2011,IND_2011_FINDEX_v02_M,Face-to-face [f2f],0
+IRL,2011,2011,IRL_2011_FINDEX_v02_M,Landline telephone,1
+IRQ,2011,2011,IRQ_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ISR,2011,2011,ISR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+ITA,2011,2011,ITA_2011_FINDEX_v02_M,Landline and cellular telephone,1
+JAM,2011,2011,JAM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+JOR,2011,2011,JOR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+JPN,2011,2011,JPN_2011_FINDEX_v02_M,Landline telephone,1
+KAZ,2011,2011,KAZ_2011_FINDEX_v02_M,Face-to-face [f2f],0
+KEN,2011,2011,KEN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+KGZ,2011,2011,KGZ_2011_FINDEX_v02_M,Face-to-face [f2f],0
+KHM,2011,2011,KHM_2011_FINDEX_v02_M,Face-to-face [f2f],0
+KOR,2011,2011,KOR_2011_FINDEX_v02_M,Landline and cellular telephone,1
+KSV,2011,2011,KSV_2011_FINDEX_v02_M,Face-to-face [f2f],0
+KWT,2011,2011,KWT_2011_FINDEX_v02_M,Face-to-face [f2f],0
+LAO,2011,2011,LAO_2011_FINDEX_v02_M,Face-to-face [f2f],0
+LBN,2011,2011,LBN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+LBR,2011,2011,LBR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+LKA,2011,2011,LKA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+LSO,2011,2011,LSO_2011_FINDEX_v02_M,Face-to-face [f2f],0
+LTU,2011,2011,LTU_2011_FINDEX_v02_M,Face-to-face [f2f],0
+LUX,2011,2011,LUX_2011_FINDEX_v02_M,Landline telephone,1
+LVA,2011,2011,LVA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MDA,2011,2011,MDA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MDG,2011,2011,MDG_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MEX,2011,2011,MEX_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MKD,2011,2011,MKD_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MLI,2011,2011,MLI_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MLT,2011,2011,MLT_2011_FINDEX_v02_M,Landline telephone,1
+MNE,2011,2011,MNE_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MNG,2011,2011,MNG_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MRT,2011,2011,MRT_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MUS,2011,2011,MUS_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MWI,2011,2011,MWI_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MYS,2011,2011,MYS_2011_FINDEX_v02_M,Face-to-face [f2f],0
+NER,2011,2011,NER_2011_FINDEX_v02_M,Face-to-face [f2f],0
+NGA,2011,2011,NGA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+NIC,2011,2011,NIC_2011_FINDEX_v02_M,Face-to-face [f2f],0
+NLD,2011,2011,NLD_2011_FINDEX_v02_M,Landline telephone,1
+NPL,2011,2011,NPL_2011_FINDEX_v02_M,Face-to-face [f2f],0
+NZL,2011,2011,NZL_2011_FINDEX_v02_M,Landline telephone,1
+OMN,2011,2011,OMN_2011_FINDEX_v02_M,Landline telephone,1
+PAK,2011,2011,PAK_2011_FINDEX_v02_M,Face-to-face [f2f],0
+PAN,2011,2011,PAN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+PER,2011,2011,PER_2011_FINDEX_v02_M,Face-to-face [f2f],0
+PHL,2011,2011,PHL_2011_FINDEX_v02_M,Face-to-face [f2f],0
+POL,2011,2011,POL_2011_FINDEX_v02_M,Face-to-face [f2f],0
+PRT,2011,2011,PRT_2011_FINDEX_v02_M,Landline and cellular telephone,1
+PRY,2011,2011,PRY_2011_FINDEX_v02_M,Face-to-face [f2f],0
+QAT,2011,2011,QAT_2011_FINDEX_v02_M,Cellular telephone,1
+ROU,2011,2011,ROU_2011_FINDEX_v02_M,Face-to-face [f2f],0
+RUS,2011,2011,RUS_2011_FINDEX_v02_M,Face-to-face [f2f],0
+RWA,2011,2011,RWA_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SAU,2011,2011,SAU_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SDN,2011,2011,SDN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SEN,2011,2011,SEN_2011_FINDEX_v02_M,Face-to-face [f2f],0
+SGP,2011,2011,SGP_2011_FINDEX_v02_M,Face-to-face [f2f],0
+MAR,2011,2011,MAR_2011_FINDEX_v02_M,Face-to-face [f2f],0
+WLD,2014,2014,WLD_2014_FINDEX_v01_M,Other [oth],0
+KAZ,2017,2017,KAZ_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+AFG,2014,2014,AFG_2014_FINDEX_v01_M,Face-to-face [f2f],0
+AGO,2014,2014,AGO_2014_FINDEX_v01_M,Face-to-face [f2f],0
+ALB,2014,2014,ALB_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+ARE,2014,2014,ARE_2014_FINDEX_v01_M,Other [oth],0
+ARG,2014,2014,ARG_2014_FINDEX_v01_M,Face-to-face [f2f],0
+ARM,2014,2014,ARM_2014_FINDEX_v01_M,Face-to-face [f2f],0
+AUS,2014,2014,AUS_2014_FINDEX_v01_M,Other [oth],0
+AUT,2014,2014,AUT_2014_FINDEX_v01_M,Other [oth],0
+AZE,2014,2014,AZE_2014_FINDEX_v01_M,Face-to-face [f2f],0
+BDI,2014,2014,BDI_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+BEL,2014,2014,BEL_2014_FINDEX_v01_M,Other [oth],0
+BEN,2014,2014,BEN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+BFA,2014,2014,BFA_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+BGD,2014,2014,BGD_2014_FINDEX_v01_M,Face-to-face [f2f],0
+BGR,2014,2014,BGR_2014_FINDEX_v01_M,Face-to-face [f2f],0
+BHR,2014,2014,BHR_2014_FINDEX_v01_M,Other [oth],0
+BIH,2014,2014,BIH_2014_FINDEX_v01_M,Face-to-face [f2f],0
+BLR,2014,2014,BLR_2014_FINDEX_v01_M,Face-to-face [f2f],0
+BLZ,2014,2014,BLZ_2014_FINDEX_v01_M,Face-to-face [f2f],0
+BOL,2014,2014,BOL_2014_FINDEX_v01_M,Face-to-face [f2f],0
+BRA,2014,2014,BRA_2014_FINDEX_v01_M,Face-to-face [f2f],0
+BTN,2014,2014,BTN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+BWA,2014,2014,BWA_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+CAN,2014,2014,CAN_2014_FINDEX_v01_M,Other [oth],0
+CHE,2014,2014,CHE_2014_FINDEX_v01_M,Other [oth],0
+CHL,2014,2014,CHL_2014_FINDEX_v01_M,Face-to-face [f2f],0
+CHN,2014,2014,CHN_2014_FINDEX_v01_M,Other [oth],0
+CIV,2014,2014,CIV_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+CMR,2014,2014,CMR_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+COD,2014,2014,COD_2014_FINDEX_v01_M,Face-to-face [f2f],0
+COG,2014,2014,COG_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+COL,2014,2014,COL_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+CRI,2014,2014,CRI_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+CYP,2014,2014,CYP_2014_FINDEX_v01_M,Other [oth],0
+CZE,2014,2014,CZE_2014_FINDEX_v01_M,Face-to-face [f2f],0
+DEU,2014,2014,DEU_2014_FINDEX_v01_M,Other [oth],0
+DNK,2014,2014,DNK_2014_FINDEX_v01_M,Other [oth],0
+DOM,2014,2014,DOM_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+DZA,2014,2014,DZA_2014_FINDEX_v01_M,Face-to-face [f2f],0
+ECU,2014,2014,ECU_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+EGY,2014,2014,EGY_2014_FINDEX_v01_M,Face-to-face [f2f],0
+ESP,2014,2014,ESP_2014_FINDEX_v01_M,Other [oth],0
+EST,2014,2014,EST_2014_FINDEX_v01_M,Face-to-face [f2f],0
+ETH,2014,2014,ETH_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+FIN,2014,2014,FIN_2014_FINDEX_v01_M,Other [oth],0
+FRA,2014,2014,FRA_2014_FINDEX_v01_M,Other [oth],0
+GAB,2014,2014,GAB_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+GBR,2014,2014,GBR_2014_FINDEX_v01_M,Other [oth],0
+GEO,2014,2014,GEO_2014_FINDEX_v01_M,Face-to-face [f2f],0
+GHA,2014,2014,GHA_2014_FINDEX_v01_M,Face-to-face [f2f],0
+GIN,2014,2014,GIN_2014_FINDEX_v01_M,Face-to-face [f2f],0
+GRC,2014,2014,GRC_2014_FINDEX_v01_M,Face-to-face [f2f],0
+GTM,2014,2014,GTM_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+HKG,2014,2014,HKG_2014_FINDEX_v01_M,Other [oth],0
+HND,2014,2014,HND_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+HRV,2014,2014,HRV_2014_FINDEX_v01_M,Face-to-face [f2f],0
+HTI,2014,2014,HTI_2014_FINDEX_v01_M,Face-to-face [f2f],0
+HUN,2014,2014,HUN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+IDN,2014,2014,IDN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+IND,2014,2014,IND_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+IRL,2014,2014,IRL_2014_FINDEX_v01_M,Other [oth],0
+IRQ,2014,2014,IRQ_2014_FINDEX_v01_M,Other [oth],0
+ISR,2014,2014,ISR_2014_FINDEX_v01_M,Face-to-face [f2f],0
+ITA,2014,2014,ITA_2014_FINDEX_v01_M,Other [oth],0
+JAM,2014,2014,JAM_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+JOR,2014,2014,JOR_2014_FINDEX_v01_M,Face-to-face [f2f],0
+JPN,2014,2014,JPN_2014_FINDEX_v01_M,Other [oth],0
+KAZ,2014,2014,KAZ_2014_FINDEX_v01_M,Face-to-face [f2f],0
+KEN,2014,2014,KEN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+KGZ,2014,2014,KGZ_2014_FINDEX_v01_M,Face-to-face [f2f],0
+KHM,2014,2014,KHM_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+KOR,2014,2014,KOR_2014_FINDEX_v01_M,Other [oth],0
+KSV,2014,2014,KSV_2014_FINDEX_v01_M,Face-to-face [f2f],0
+KWT,2014,2014,KWT_2014_FINDEX_v01_M,Other [oth],0
+LBN,2014,2014,LBN_2014_FINDEX_v01_M,Face-to-face [f2f],0
+LKA,2014,2014,LKA_2014_FINDEX_v01_M,Face-to-face [f2f],0
+LTU,2014,2014,LTU_2014_FINDEX_v01_M,Face-to-face [f2f],0
+LUX,2014,2014,LUX_2014_FINDEX_v01_M,Other [oth],0
+LVA,2014,2014,LVA_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MDA,2014,2014,MDA_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MDG,2014,2014,MDG_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MEX,2014,2014,MEX_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+MKD,2014,2014,MKD_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MLI,2014,2014,MLI_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+MLT,2014,2014,MLT_2014_FINDEX_v01_M,Other [oth],0
+MMR,2014,2014,MMR_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MNE,2014,2014,MNE_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MNG,2014,2014,MNG_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MRT,2014,2014,MRT_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MUS,2014,2014,MUS_2014_FINDEX_v01_M,Face-to-face [f2f],0
+MWI,2014,2014,MWI_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+MYS,2014,2014,MYS_2014_FINDEX_v01_M,Other [oth],0
+NAM,2014,2014,NAM_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+NER,2014,2014,NER_2014_FINDEX_v01_M,Face-to-face [f2f],0
+NGA,2014,2014,NGA_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+NIC,2014,2014,NIC_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+NLD,2014,2014,NLD_2014_FINDEX_v01_M,Other [oth],0
+NOR,2014,2014,NOR_2014_FINDEX_v01_M,Other [oth],0
+NPL,2014,2014,NPL_2014_FINDEX_v01_M,Face-to-face [f2f],0
+NZL,2014,2014,NZL_2014_FINDEX_v01_M,Other [oth],0
+PAK,2014,2014,PAK_2014_FINDEX_v01_M,Face-to-face [f2f],0
+PAN,2014,2014,PAN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+PER,2014,2014,PER_2014_FINDEX_v01_M,Face-to-face [f2f],0
+PHL,2014,2014,PHL_2014_FINDEX_v01_M,Face-to-face [f2f],0
+POL,2014,2014,POL_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+PRI,2014,2014,PRI_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+PRT,2014,2014,PRT_2014_FINDEX_v01_M,Other [oth],0
+ROU,2014,2014,ROU_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+RUS,2014,2014,RUS_2014_FINDEX_v01_M,Face-to-face [f2f],0
+RWA,2014,2014,RWA_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+SAU,2014,2014,SAU_2014_FINDEX_v01_M,Other [oth],0
+SDN,2014,2014,SDN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+SEN,2014,2014,SEN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+SGP,2014,2014,SGP_2014_FINDEX_v01_M,Face-to-face [f2f],0
+SLE,2014,2014,SLE_2014_FINDEX_v01_M,Face-to-face [f2f],0
+SLV,2014,2014,SLV_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+SOM,2014,2014,SOM_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+SRB,2014,2014,SRB_2014_FINDEX_v01_M,Face-to-face [f2f],0
+SVK,2014,2014,SVK_2014_FINDEX_v01_M,Face-to-face [f2f],0
+SVN,2014,2014,SVN_2014_FINDEX_v01_M,Other [oth],0
+SWE,2014,2014,SWE_2014_FINDEX_v01_M,Other [oth],0
+TCD,2014,2014,TCD_2014_FINDEX_v01_M,Face-to-face [f2f],0
+TGO,2014,2014,TGO_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+THA,2014,2014,THA_2014_FINDEX_v01_M,Face-to-face [f2f],0
+TJK,2014,2014,TJK_2014_FINDEX_v01_M,Face-to-face [f2f],0
+TKM,2014,2014,TKM_2014_FINDEX_v01_M,Face-to-face [f2f],0
+TUN,2014,2014,TUN_2014_FINDEX_v01_M,Face-to-face [f2f],0
+TWN,2014,2014,TWN_2014_FINDEX_v01_M,Other [oth],0
+TZA,2014,2014,TZA_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+UGA,2014,2014,UGA_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+UKR,2014,2014,UKR_2014_FINDEX_v01_M,Face-to-face [f2f],0
+URY,2014,2014,URY_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+USA,2014,2014,USA_2014_FINDEX_v01_M,Other [oth],0
+UZB,2014,2014,UZB_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+VEN,2014,2014,VEN_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+WBG,2014,2014,WBG_2014_FINDEX_v01_M,Face-to-face [f2f],0
+YEM,2014,2014,YEM_2014_FINDEX_v01_M,Face-to-face [f2f],0
+ZAF,2014,2014,ZAF_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+ZMB,2014,2014,ZMB_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+ZWE,2014,2014,ZWE_2014_FINDEX_v01_M,Computer Assisted Personal Interview [capi],0
+TJK,2017,2017,TJK_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+TKM,2017,2017,TKM_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+TTO,2017,2017,TTO_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+TUN,2017,2017,TUN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+TWN,2017,2017,TWN_2017_FINDEX_v02_M,Other [oth],0
+TZA,2017,2017,TZA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+UGA,2017,2017,UGA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+UKR,2017,2017,UKR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+URY,2017,2017,URY_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+USA,2017,2017,USA_2017_FINDEX_v02_M,Other [oth],0
+UZB,2017,2017,UZB_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+VEN,2017,2017,VEN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+KSV,2017,2017,KSV_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ZAF,2017,2017,ZAF_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ZMB,2017,2017,ZMB_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ZWE,2017,2017,ZWE_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+AFG,2017,2017,AFG_2017_FINDEX_v02_M,Face-to-face [f2f],0
+ALB,2017,2017,ALB_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ARE,2017,2017,ARE_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ARG,2017,2017,ARG_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ARM,2017,2017,ARM_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+AUS,2017,2017,AUS_2017_FINDEX_v02_M,Other [oth],0
+AUT,2017,2017,AUT_2017_FINDEX_v02_M,Other [oth],0
+AZE,2017,2017,AZE_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+BEL,2017,2017,BEL_2017_FINDEX_v02_M,Other [oth],0
+BEN,2017,2017,BEN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+BFA,2017,2017,BFA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+BGD,2017,2017,BGD_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+BGR,2017,2017,BGR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+BHR,2017,2017,BHR_2017_FINDEX_v02_M,Other [oth],0
+BIH,2017,2017,BIH_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+BLR,2017,2017,BLR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+BOL,2017,2017,BOL_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+BRA,2017,2017,BRA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+THA,2017,2017,THA_2017_FINDEX_v02_M,Face-to-face [f2f],0
+TGO,2017,2017,TGO_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+TCD,2017,2017,TCD_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+SWE,2017,2017,SWE_2017_FINDEX_v02_M,Landline and cellular telephone,1
+SVN,2017,2017,SVN_2017_FINDEX_v02_M,Landline and cellular telephone,1
+SVK,2017,2017,SVK_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+SSD,2017,2017,SSD_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+SRB,2017,2017,SRB_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+SLV,2017,2017,SLV_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+SLE,2017,2017,SLE_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+KWT,2017,2017,KWT_2017_FINDEX_v02_M,Landline and cellular telephone,1
+LAO,2017,2017,LAO_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+LBN,2017,2017,LBN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+LBR,2017,2017,LBR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+LBY,2017,2017,LBY_2017_FINDEX_v02_M,Cellular telephone,1
+LKA,2017,2017,LKA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+LSO,2017,2017,LSO_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+LTU,2017,2017,LTU_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+LUX,2017,2017,LUX_2017_FINDEX_v02_M,Landline and cellular telephone,1
+LVA,2017,2017,LVA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MAR,2017,2017,MAR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MDA,2017,2017,MDA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MDG,2017,2017,MDG_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MEX,2017,2017,MEX_2017_FINDEX_v02_M,Face-to-face [f2f],0
+MKD,2017,2017,MKD_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MLI,2017,2017,MLI_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MLT,2017,2017,MLT_2017_FINDEX_v02_M,Landline and cellular telephone,1
+MMR,2017,2017,MMR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MNE,2017,2017,MNE_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MNG,2017,2017,MNG_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MOZ,2017,2017,MOZ_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MRT,2017,2017,MRT_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MUS,2017,2017,MUS_2017_FINDEX_v02_M,Landline and cellular telephone,1
+MWI,2017,2017,MWI_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+MYS,2017,2017,MYS_2017_FINDEX_v02_M,Landline and cellular telephone,1
+NAM,2017,2017,NAM_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+NER,2017,2017,NER_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+NGA,2017,2017,NGA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+NIC,2017,2017,NIC_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+NLD,2017,2017,NLD_2017_FINDEX_v02_M,Landline and cellular telephone,1
+NOR,2017,2017,NOR_2017_FINDEX_v02_M,Landline and cellular telephone,1
+NPL,2017,2017,NPL_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+NZL,2017,2017,NZL_2017_FINDEX_v02_M,Landline and cellular telephone,1
+PAK,2017,2017,PAK_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+PAN,2017,2017,PAN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+PER,2017,2017,PER_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+PHL,2017,2017,PHL_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+POL,2017,2017,POL_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+PRT,2017,2017,PRT_2017_FINDEX_v02_M,Landline and cellular telephone,1
+PRY,2017,2017,PRY_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ROU,2017,2017,ROU_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+RUS,2017,2017,RUS_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+RWA,2017,2017,RWA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+SAU,2017,2017,SAU_2017_FINDEX_v02_M,Landline and cellular telephone,1
+SEN,2017,2017,SEN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+SGP,2017,2017,SGP_2017_FINDEX_v02_M,Face-to-face [f2f],0
+WLD,2017,2017,WLD_2017_FINDEX_v02_M,Other [oth],0
+CAF,2017,2017,CAF_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+CAN,2017,2017,CAN_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+CHE,2017,2017,CHE_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+CHL,2017,2017,CHL_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+CHN,2017,2017,CHN_2017_FINDEX_v02_M,Face-to-face [f2f],0
+CIV,2017,2017,CIV_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+CMR,2017,2017,CMR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+COD,2017,2017,COD_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+COG,2017,2017,COG_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+COL,2017,2017,COL_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+CRI,2017,2017,CRI_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+CYP,2017,2017,CYP_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+CZE,2017,2017,CZE_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+DEU,2017,2017,DEU_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+DNK,2017,2017,DNK_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+DOM,2017,2017,DOM_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+DZA,2017,2017,DZA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ECU,2017,2017,ECU_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+EGY,2017,2017,EGY_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ESP,2017,2017,ESP_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+EST,2017,2017,EST_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ETH,2017,2017,ETH_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+FIN,2017,2017,FIN_2017_FINDEX_v02_M,Cellular Telephone,1
+FRA,2017,2017,FRA_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+GAB,2017,2017,GAB_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+GBR,2017,2017,GBR_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+GEO,2017,2017,GEO_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+GHA,2017,2017,GHA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+GIN,2017,2017,GIN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+GRC,2017,2017,GRC_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+GTM,2017,2017,GTM_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+HKG,2017,2017,HKG_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+HND,2017,2017,HND_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+HRV,2017,2017,HRV_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+HTI,2017,2017,HTI_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+HUN,2017,2017,HUN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+IDN,2017,2017,IDN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+IND,2017,2017,IND_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+IRL,2017,2017,IRL_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+IRN,2017,2017,IRN_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+IRQ,2017,2017,IRQ_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+ISR,2017,2017,ISR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+ITA,2017,2017,ITA_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+JOR,2017,2017,JOR_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+JPN,2017,2017,JPN_2017_FINDEX_v02_M,Landline and Cellular Telephone,1
+KEN,2017,2017,KEN_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+KGZ,2017,2017,KGZ_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+KHM,2017,2017,KHM_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+KOR,2017,2017,KOR_2017_FINDEX_v02_M,Other [oth],0
+BWA,2017,2017,BWA_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0
+WLD,2021,2021,WLD_2021_FINDEX_v03_M,,0
+TCD,2021,2022,TCD_2022_FINDEX_v01_M,Face-to-face [f2f],0
+YEM,2021,2022,YEM_2022_FINDEX_v01_M,Face-to-face [f2f],0
+WBG,2017,2017,WBG_2017_FINDEX_v02_M,Computer Assisted Personal Interview [capi],0

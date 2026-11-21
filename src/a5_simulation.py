@@ -40,13 +40,15 @@ def dummies(codes):
 
 
 class Est:
-    def __init__(self, Z, x, groups):
+    def __init__(self, Z, x, groups, nested=0):
+        """nested: number of fixed-effect columns nested within the clusters, excluded from k in the CR1
+        small-sample factor (as in common.FWLFit)."""
         P = Z @ np.linalg.pinv(Z)
         self.M = np.eye(len(x)) - P
         self.xt = self.M @ x
         self.sxx = self.xt @ self.xt
         self.G = groups.max() + 1
-        n, k = len(x), np.linalg.matrix_rank(Z) + 1
+        n, k = len(x), np.linalg.matrix_rank(Z) + 1 - nested
         self.adj = (self.G / (self.G - 1)) * ((n - 1) / (n - k))
         self.H = np.zeros((self.G, n))
         self.H[groups, np.arange(n)] = 1
@@ -79,7 +81,7 @@ def main():
     t = pd.factorize(d.wave)[0]
     G, n, T = c.max() + 1, len(d), t.max() + 1
     one = np.ones((n, 1))
-    E = {"B1": Est(np.hstack([one, dummies(t)]), ib, c), "B2": Est(np.hstack([one, dummies(c), dummies(t)]), ib, c)}
+    E = {"B1": Est(np.hstack([one, dummies(t)]), ib, c), "B2": Est(np.hstack([one, dummies(c), dummies(t)]), ib, c, nested=c.max())}
     E["D"] = E["B2"]
     # country-specific residual SDs from the observed formal-saving two-way FE residuals
     y = 100 * d.save_formal.values

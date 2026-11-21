@@ -1,0 +1,7 @@
+design,q,test,theta80
+EMDE,0,power_wcr,0.7163934426229508
+EMDE,0,power_cr1,0.4624657534246575
+EMDE,1,power_wcr,
+EMDE,1,power_cr1,0.6744769874476988
+"EMDE, unmatched steps neutralised",0,power_wcr,0.6727735368956743
+"EMDE, unmatched steps neutralised",0,power_cr1,0.6601694915254237
